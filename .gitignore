@@ -1,0 +1,5 @@
+bin/
+obj/
+*.dbmdl
+*.user
+.vs/
